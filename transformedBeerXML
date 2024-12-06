@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Beer Catalog</title>
+        <style>
+                    table { border-collapse: collapse; width: 100%; }
+                    th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                    th { background-color: #f2f2f2; }
+                </style>
+    </head>
+    <body>
+        <h2>Beer Catalog</h2>
+        <table>
+            <tr>
+                <th>Name</th><th>Type</th><th>Manufacturer</th>
+            </tr>
+            <tr>
+                <td>Біла ніч</td><td>Темне</td><td>Чернігівське</td>
+            </tr>
+            <tr>
+                <td>Світле пиво</td><td>Світле</td><td>Львівське 1715</td>
+            </tr>
+            <tr>
+                <td>Традиційне</td><td>Пшеничне</td><td>Оболонь</td>
+            </tr>
+            <tr>
+                <td>Збитень</td><td>Медове</td><td>Львівська приватна броварня</td>
+            </tr>
+            <tr>
+                <td>Імбирний ель</td><td>Імбирне</td><td>Оболонь</td>
+            </tr>
+        </table>
+    </body>
+</html>
