@@ -3,7 +3,7 @@ package org.example;
 import org.example.parsers.BeerParserDOM;
 import org.example.parsers.BeerParserStAX;
 import org.example.BeerXMLTransformer;
-//import org.example.Beer;
+import org.example.generated*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
